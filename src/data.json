@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "fullname": "Đạt",
+            "img": "https://www.w3schools.com/images/w3schools_green.jpg",
+            "status": 1,
+            "time": "2015-01-01",
+            "content": "Chào ngày mới",
+            "title": "abc",
+            "like": 3,
+            "comments": [
+                {
+                    "comment_id": 1,
+                    "img": "https://www.w3schools.com/images/w3schools_green.jpg",
+                    "fullname": "Thảo béo",
+                    "text": "Hello 1"
+                },
+                {
+                    "comment_id": 2,
+                    "img": "https://www.w3schools.com/images/w3schools_green.jpg",
+                    "fullname": "Nam dz",
+                    "text": "Hello 2"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "fullname": "Đạt",
+            "time": "2015-01-01",
+            "img": "https://www.w3schools.com/images/w3schools_green.jpg",
+            "status": 2,
+            "content": "Chào ngày mới 2",
+            "like": 2,
+            "title": "bcd",
+            "comments": [
+                {
+                    "comment_id": 1,
+                    "img": "https://www.w3schools.com/images/w3schools_green.jpg",
+                    "fullname": "Thảo béo",
+                    "text": "Hello 3"
+                },
+                {
+                    "comment_id": 2,
+                    "img": "https://www.w3schools.com/images/w3schools_green.jpg",
+                    "fullname": "Nam dz",
+                    "text": "Hello 4"
+                }
+            ]
+        }
+    ]
+} 
